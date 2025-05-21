@@ -94,7 +94,8 @@ The output file `keyword_matches.jsonl` contains one JSON object per line, for e
 }
 
 ```
-Pastebin Keyword Crawler (Crypto / t.me).ipynb
+![image](https://github.com/user-attachments/assets/ceb4137b-cb61-4d5c-a867-794adfc11d67)
+
 ---
 
 ## Code Structure
