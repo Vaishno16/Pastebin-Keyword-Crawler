@@ -49,14 +49,6 @@ pip install requests beautifulsoup4
 
 ---
 
-## Usage
-
-Run the script directly:
-
-```bash
-python pastebin_crypto_monitor.py
-```
-
 ### What happens:
 
 1. The script scrapes the Pastebin archive page to get a list of recent paste IDs.
